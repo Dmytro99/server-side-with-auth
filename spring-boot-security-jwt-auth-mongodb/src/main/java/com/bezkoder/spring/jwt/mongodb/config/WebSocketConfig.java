@@ -24,6 +24,7 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
 
   public void test(){
     System.out.println("second");
+    System.out.println("second");
   }
 
 }
